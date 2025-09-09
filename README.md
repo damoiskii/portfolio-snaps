@@ -24,4 +24,3 @@ See the full [LICENSE](./LICENSE) file for details.
 
 ---
 ✨ Built with passion for design & development → [devdam.me](https://devdam.me)
-
