@@ -1,12 +1,11 @@
 # Portfolio Snaps – Design Guide
 
-This document contains the creative prompts and design guidelines used to generate portfolio mockups and showcase visuals for [devdem.me](https://devdem.me).
+This document contains the creative prompts and design guidelines used to generate portfolio mockups and showcase visuals for [devdam.me](https://devdam.me).
 
 ---
 
 ## 🎨 Main Prompt (Laptop Showcase)
 
-**Prompt:**
 A sleek laptop mockup displaying the uploaded dashboard screenshot.  
 - The laptop is centered against a modern gradient background transitioning from deep black to vibrant orange.  
 - The style is professional and minimalistic, with soft shadows under the laptop to add depth.  
@@ -18,7 +17,6 @@ A sleek laptop mockup displaying the uploaded dashboard screenshot.
 
 ## 🎨 Secondary Prompt (No Dashboard)
 
-**Prompt:**
 Enhance and beautify the uploaded screenshot for a portfolio showcase.  
 - Place it on a sleek gradient background that transitions smoothly from deep black to vibrant orange.  
 - Add realistic lighting, depth, and subtle reflections to make it look like a professional product presentation.  
@@ -56,7 +54,6 @@ A futuristic floating panel mockup displaying the uploaded dashboard screenshot,
 
 ## 🎬 Cinematic Prompt
 
-**Prompt:**
 Beautify and enhance the uploaded dashboard screenshot in a cinematic, dramatic style.  
 - Place it against a bold gradient background transitioning from deep black to glowing orange.  
 - Add dynamic lighting effects, subtle glow edges, and a soft spotlight that draws attention to the dashboard.  
