@@ -62,4 +62,4 @@ Beautify and enhance the uploaded dashboard screenshot in a cinematic, dramatic 
 
 ---
 
-✨ This guide ensures all generated visuals remain consistent, professional, and aligned with the branding of [devdem.me](https://devdem.me).
+✨ This guide ensures all generated visuals remain consistent, professional, and aligned with the branding of [devdam.me](https://devdam.me).
